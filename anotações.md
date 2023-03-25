@@ -30,4 +30,24 @@
 
 # &apos = é usado para quando você quer o aspas simples - ' - 
 
+# de preferencia só um H1 por página
+
+# li = para fazer o texto em formato de lista
+
+# ol = usada para ser o pai de li, que faz uma lista ordenada
+
+# ul = usada como pai do li, que faz uma lista não ordenada
+
+# dl = Lista de descrisão
+
+# dt = termo de descrisão
+
+# dd = a propria descrisão
+
+# code = para eu conseguir mostrar um código na tela sem ele ser executado
+
+# pre = boto como pai do code para eu conseguir colocar em qualquer lugar da tela
+
+# _blank = atributo target da tag a dos hiperlinks, usada para abrir o link em outra aba no navegador, se não botar o blank vai ficar padrão o _self
+
 Site com todos atributos globais = developer.mozila.org
